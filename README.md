@@ -2,11 +2,11 @@
 
 ## About Me
 
-Hello, I'm [Your Name], a seasoned Software Engineer and a current Bachelor's student in Data Science with a focus on Artificial Intelligence. With a background in Software Development and a technical diploma in Systems Development, I bring a diverse skill set to the table.
+Hello, I'm Israel Barberino, a Software Development Engineer and a current Bachelor's student in Data Science with a focus on Artificial Intelligence. With a background in Software Development and a technical diploma in Systems Development, I bring a diverse skill set to the table.
 
 ## Professional Background
 
-- **Current Role:** Software Engineer with expertise in Java, Spring, Kotlin, and Node.js.
+- **Current Stack:** Software Engineer with expertise in Java, Spring, Kotlin, and Node.js.
 - **Previous Experience:** Proficient in C# ASP.Net and Angular.
 - **Certifications:** AWS Certified, demonstrating proficiency in cloud technologies.
 
@@ -15,7 +15,7 @@ Hello, I'm [Your Name], a seasoned Software Engineer and a current Bachelor's st
 Here are some of the key technologies and tools I work with:
 
 - **Programming Languages:** Java, Kotlin, Node.js, C#.
-- **Frameworks:** Spring, Angular.
+- **Frameworks:** Spring, Angular, React, ASP.Net.
 - **Cloud Technologies:** AWS (Certified).
 - **Containers & Orchestration:** Docker, Kubernetes.
 
@@ -31,11 +31,9 @@ If you are interested in collaborating or discussing potential projects, please 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=israelbarberino)
 
-
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/israel-barberino/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=mail.ru)](mailto:iluizfranca@gmail.com)
 
 ## Contributions
 
@@ -43,4 +41,4 @@ Feel free to explore and contribute to any of my projects. Open to collaboration
 
 ---
 
-Thanks for visiting by! 😊
+Thanks for visiting me! 😊
