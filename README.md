@@ -29,7 +29,8 @@ If you are interested in collaborating or discussing potential projects, please 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?israelbarberino=israelbarberino&show_icons=true&hide=contribs,prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=israelbarberino)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Connect With Me
 
