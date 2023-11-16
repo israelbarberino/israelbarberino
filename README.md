@@ -1,16 +1,45 @@
-### Hi there 👋
+# Welcome to My Profile! 👋
 
-<!--
-**israelbarberino/israelbarberino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello, I'm [Your Name], a seasoned Software Engineer and a current Bachelor's student in Data Science with a focus on Artificial Intelligence. With a background in Software Development and a technical diploma in Systems Development, I bring a diverse skill set to the table.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Professional Background
+
+- **Current Role:** Software Engineer with expertise in Java, Spring, Kotlin, and Node.js.
+- **Previous Experience:** Proficient in C# ASP.Net and Angular.
+- **Certifications:** AWS Certified, demonstrating proficiency in cloud technologies.
+
+## Technical Toolbox
+
+Here are some of the key technologies and tools I work with:
+
+- **Programming Languages:** Java, Kotlin, Node.js, C#.
+- **Frameworks:** Spring, Angular.
+- **Cloud Technologies:** AWS (Certified).
+- **Containers & Orchestration:** Docker, Kubernetes.
+
+## Projects
+
+I have been actively involved in numerous noteworthy projects, most of which are private and, unfortunately, not publicly accessible. My work spans across a range of domains, showcasing my diverse skills and experiences in the field of software development and data science.
+
+While I cannot share specific details about these private projects, I'm always open to discussing my expertise, experiences, and potential collaboration opportunities. Feel free to reach out for a detailed discussion or inquire about my involvement in specific domains.
+
+If you are interested in collaborating or discussing potential projects, please feel free to connect with me.
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=contribs,prs)
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/israel-barberino/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=mail.ru)](mailto:iluizfranca@gmail.com)
+
+## Contributions
+
+Feel free to explore and contribute to any of my projects. Open to collaboration and improvement suggestions!
+
+---
+
+Thanks for visiting by! 😊
