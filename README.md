@@ -16,7 +16,7 @@ Here are some of the key technologies and tools I work with:
 
 - **Programming Languages:** Java, Kotlin, Node.js, C#.
 - **Frameworks:** Spring, Angular, React, ASP.Net.
-- **Cloud Technologies:** AWS (Certified).
+- **Cloud Technologies:** AWS (2x) | Azure (1x) | Six Sigma (Green Belt).
 - **Containers & Orchestration:** Docker, Kubernetes.
 
 ## Projects
