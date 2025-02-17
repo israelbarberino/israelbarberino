@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello, I'm Israel Barberino, a Software Development Engineer and a current Bachelor's student in Data Science with a focus on Artificial Intelligence. With a background in Software Development and a technical diploma in Systems Development, I bring a diverse skill set to the table.
+Hello, I'm Israel Barberino, a Software Development Engineer (SR) and a current Bachelor's student in Data Science with a focus on Artificial Intelligence. With a background in Software Development and a technical diploma in Systems Development, I bring a diverse skill set to the table.
 
 ## Professional Background
 
